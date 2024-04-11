@@ -1,4 +1,4 @@
-import { fetchDataFromApi } from "@/Utils/api";
+import { fetchDataFromApi } from "@/utils/api";
 import HeroBanner from "@/components/HeroBanner";
 import ProductCard from "@/components/ProductCard";
 import Wrapper from "@/components/Wrapper";
