@@ -1,4 +1,4 @@
-import { fetchDataFromApi } from "@/Utils/api";
+import { fetchDataFromApi } from "@/utils/api";
 import ProductCard from "@/components/ProductCard";
 import Wrapper from "@/components/Wrapper";
 import { useRouter } from "next/router";
