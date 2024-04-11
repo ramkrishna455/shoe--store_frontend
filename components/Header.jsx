@@ -7,7 +7,7 @@ import { IoMdHeartEmpty } from "react-icons/io";
 import { BsCart } from "react-icons/bs";
 import { BiMenuAltRight } from "react-icons/bi";
 import { VscChromeClose } from "react-icons/vsc";
-import { fetchDataFromApi } from "@/Utils/api";
+import { fetchDataFromApi } from "@/utils/api";
 import { useSelector } from "react-redux";
 
 const Header = () => {
